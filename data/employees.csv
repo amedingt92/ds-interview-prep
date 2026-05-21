@@ -1,0 +1,75 @@
+employee_id,name,department_id,department,role,salary,hire_date,clearance,active
+1001,Taylor Scott,1,Engineering,Hardware Analyst,123000,2019-05-29,Confidential,1
+1002,Finley Wilson,1,Engineering,Software Engineer,127000,2024-03-30,Secret,1
+1003,Drew Lee,1,Engineering,Software Engineer,131000,2019-09-14,Secret,1
+1004,Kendall Green,1,Engineering,Software Engineer,133000,2021-04-03,Top Secret,1
+1005,Finley Miller,1,Engineering,Integration Engineer,142000,2020-08-14,Top Secret,1
+1006,Logan Williams,1,Engineering,Hardware Analyst,133000,2024-05-03,Confidential,1
+1007,Blake Baker,1,Engineering,Software Engineer,98000,2019-08-26,Secret,1
+1008,Remy Nelson,1,Engineering,Systems Engineer,112000,2018-07-27,Confidential,1
+1009,Phoenix Moore,1,Engineering,Integration Engineer,140000,2021-09-02,Secret,0
+1010,River Williams,1,Engineering,Integration Engineer,107000,2023-04-27,Secret,1
+1011,Blake Brown,1,Engineering,Software Engineer,98000,2020-02-19,Secret,1
+1012,Cameron Hall,2,Cyber,Penetration Tester,112000,2019-10-06,Top Secret,0
+1013,Phoenix Davis,2,Cyber,Red Team Operator,135000,2023-10-20,Top Secret,1
+1014,Sage Young,2,Cyber,Red Team Operator,94000,2017-02-05,Top Secret,1
+1015,Logan King,2,Cyber,SOC Analyst,105000,2019-12-05,Confidential,1
+1016,Avery King,2,Cyber,Penetration Tester,120000,2022-09-30,Secret,1
+1017,Jamie White,2,Cyber,SOC Analyst,103000,2016-10-17,Secret,1
+1018,Harley Williams,2,Cyber,Red Team Operator,122000,2018-06-14,Top Secret,1
+1019,Harley Nelson,2,Cyber,Threat Analyst,105000,2019-08-03,Secret,1
+1020,Sage Carter,2,Cyber,Threat Analyst,151000,2023-08-09,Secret,0
+1021,Casey Wilson,2,Cyber,Threat Analyst,94000,2021-10-21,Confidential,1
+1022,Taylor Wilson,3,Intelligence,Analyst I,102000,2022-07-19,Top Secret,1
+1023,Riley Hall,3,Intelligence,Analyst I,77000,2022-08-30,Secret,0
+1024,Finley Davis,3,Intelligence,Analyst I,106000,2023-10-31,Secret,1
+1025,Taylor Martinez,3,Intelligence,Analyst II,77000,2023-02-15,Top Secret,1
+1026,Sage Miller,3,Intelligence,Senior Analyst,112000,2018-02-17,Secret,1
+1027,Landen Harris,3,Intelligence,Analyst II,112000,2020-12-03,Top Secret,1
+1028,Cameron Walker,3,Intelligence,Analyst II,127000,2021-01-12,Top Secret,1
+1029,Remy Miller,3,Intelligence,Senior Analyst,81000,2019-06-30,Secret,1
+1030,Logan Young,3,Intelligence,Analyst II,71000,2017-05-03,Secret,1
+1031,Micah Garcia,3,Intelligence,Lead Analyst,97000,2023-05-21,Top Secret,1
+1032,Finley Martin,3,Intelligence,Senior Analyst,106000,2016-07-23,Secret,1
+1033,Finley Carter,3,Intelligence,Analyst I,128000,2018-11-13,Secret,1
+1034,Noel Nelson,4,Operations,Ops Specialist,93000,2016-10-03,Top Secret,1
+1035,Phoenix Anderson,4,Operations,Program Manager,85000,2018-10-30,Secret,1
+1036,Shawn White,4,Operations,Ops Specialist,97000,2022-11-17,Secret,1
+1037,Casey Thomas,4,Operations,Ops Specialist,93000,2023-02-20,Top Secret,1
+1038,Jordan Young,4,Operations,Mission Planner,94000,2016-04-17,Top Secret,0
+1039,Avery Williams,4,Operations,Ops Specialist,86000,2022-02-03,Top Secret,1
+1040,Reese Williams,4,Operations,Field Coordinator,104000,2023-12-01,Secret,1
+1041,Micah Wilson,4,Operations,Program Manager,65000,2021-10-07,Confidential,1
+1042,Logan Walker,4,Operations,Mission Planner,76000,2023-03-25,Top Secret,1
+1043,Remy Adams,4,Operations,Program Manager,83000,2022-08-19,Secret,1
+1044,Cameron Green,4,Operations,Mission Planner,83000,2019-07-27,Secret,1
+1045,Avery White,4,Operations,Field Coordinator,96000,2022-06-05,Secret,0
+1046,Logan Allen,4,Operations,Field Coordinator,100000,2016-08-08,Secret,1
+1047,Parker White,4,Operations,Field Coordinator,99000,2017-07-05,Secret,1
+1048,Morgan Garcia,5,Logistics,Logistics Analyst,69000,2021-03-13,Secret,1
+1049,Landen Taylor,5,Logistics,Logistics Analyst,67000,2021-05-19,Top Secret,0
+1050,Kendall Johnson,5,Logistics,Coordinator,64000,2017-02-19,Secret,1
+1051,Micah Walker,5,Logistics,Planner,72000,2016-05-14,Top Secret,1
+1052,Phoenix Baker,5,Logistics,Supply Specialist,83000,2017-11-18,Confidential,1
+1053,Morgan Harris,5,Logistics,Logistics Analyst,63000,2017-02-14,Secret,1
+1054,Noel Walker,5,Logistics,Supply Specialist,61000,2018-07-01,Top Secret,1
+1055,Dana Carter,5,Logistics,Coordinator,64000,2023-10-14,Top Secret,1
+1056,Riley Anderson,5,Logistics,Planner,82000,2019-09-07,Secret,1
+1057,Alex Hall,5,Logistics,Supply Specialist,73000,2020-04-13,Confidential,1
+1058,Quinn Carter,5,Logistics,Planner,91000,2017-06-24,Top Secret,1
+1059,Riley Adams,5,Logistics,Coordinator,64000,2023-07-28,Secret,1
+1060,Reese Garcia,5,Logistics,Supply Specialist,83000,2016-05-17,Secret,1
+1061,Logan Thomas,5,Logistics,Coordinator,74000,2021-05-29,Top Secret,1
+1062,Shawn Taylor,6,Finance,Financial Analyst,72000,2020-04-17,Secret,1
+1063,Harley Martin,6,Finance,Financial Analyst,84000,2017-10-09,None,1
+1064,Quinn Davis,6,Finance,Budget Analyst,89000,2021-03-26,Secret,1
+1065,Reese Martinez,6,Finance,Budget Analyst,78000,2024-06-25,Secret,1
+1066,Jamie Martin,6,Finance,Contracts Specialist,90000,2018-05-11,Secret,1
+1067,Jamie Allen,6,Finance,Auditor,103000,2019-07-07,Secret,1
+1068,Drew Walker,6,Finance,Auditor,64000,2023-08-04,Confidential,1
+1069,Kendall Wilson,6,Finance,Budget Analyst,80000,2023-04-10,Top Secret,1
+1070,Finley Baker,6,Finance,Financial Analyst,95000,2018-12-05,Secret,1
+1071,Skyler Green,6,Finance,Auditor,81000,2018-03-12,Confidential,1
+1072,Harley Martinez,6,Finance,Auditor,70000,2017-02-12,Top Secret,1
+1073,Jordan White,6,Finance,Auditor,73000,2023-08-19,Confidential,1
+1074,Blake Green,6,Finance,Auditor,87000,2018-10-11,Confidential,1

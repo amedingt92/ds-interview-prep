@@ -1,0 +1,11 @@
+contract_id,contract_name,department_id,department,start_date,end_date,value,status
+1,Project Sentinel,5,Logistics,2021-11-01,2022-05-07,23100000,Closed
+2,Operation Ironclad,6,Finance,2022-12-03,2024-07-28,24490000,Active
+3,Initiative Vanguard,1,Engineering,2022-06-24,2023-07-16,4770000,Closed
+4,Program Nexus,4,Operations,2022-11-07,2025-03-31,14220000,Active
+5,Contract Apex,6,Finance,2022-03-22,2024-02-08,15700000,Closed
+6,Project Fulcrum,4,Operations,2021-03-28,2021-11-08,23950000,Closed
+7,Operation Keystone,1,Engineering,2023-09-13,2025-12-26,18130000,Active
+8,Initiative Rampart,6,Finance,2021-07-02,2022-04-27,12900000,Closed
+9,Program Cipher,3,Intelligence,2023-01-01,2024-07-03,2860000,Active
+10,Contract Meridian,4,Operations,2022-09-18,2024-11-29,20390000,Active
