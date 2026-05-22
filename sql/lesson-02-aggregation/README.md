@@ -68,15 +68,15 @@ ORDER BY avg_salary DESC;
 ```mermaid
 flowchart TD
     A[employees — 74 rows] --> B{GROUP BY department}
-    B --> C[Cyber\n12 rows]
-    B --> D[Engineering\n11 rows]
-    B --> E[Intelligence\n13 rows]
+    B --> C[Cyber<br />12 rows]
+    B --> D[Engineering<br />11 rows]
+    B --> E[Intelligence<br />13 rows]
     B --> F[... 3 more depts]
-    C --> G[AVG salary\nCOUNT rows]
+    C --> G[AVG salary<br />COUNT rows]
     D --> G
     E --> G
     F --> G
-    G --> H[6 result rows\none per department]
+    G --> H[6 result rows<br />one per department]
 ```
 
 > ⚠️ **Rule:** Every column in SELECT must either be in GROUP BY or wrapped in an aggregate function.  
@@ -103,10 +103,10 @@ GROUP BY department;
 
 ```mermaid
 flowchart LR
-    A[FROM] --> B[WHERE\nfilter rows]
-    B --> C[GROUP BY\ncreate groups]
-    C --> D[HAVING\nfilter groups]
-    D --> E[SELECT\nreturn columns]
+    A[FROM] --> B[WHERE<br />filter rows]
+    B --> C[GROUP BY<br />create groups]
+    C --> D[HAVING<br />filter groups]
+    D --> E[SELECT<br />return columns]
     E --> F[ORDER BY]
 ```
 

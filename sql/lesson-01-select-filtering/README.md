@@ -55,10 +55,10 @@ as the order you write them:
 
 ```mermaid
 flowchart LR
-    A[FROM\nget the table] --> B[WHERE\nfilter rows]
-    B --> C[SELECT\npick columns]
-    C --> D[ORDER BY\nsort]
-    D --> E[LIMIT\ntrim]
+    A[FROM <br />get the table] --> B[WHERE<br />filter rows]
+    B --> C[SELECT<br />pick columns]
+    C --> D[ORDER BY<br />sort]
+    D --> E[LIMIT<br />trim]
 ```
 
 > This order matters later. It's why you can't use a SELECT alias inside a WHERE clause —

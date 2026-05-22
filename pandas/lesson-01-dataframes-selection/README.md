@@ -46,8 +46,8 @@ df[["name", "salary", "department"]] # multiple columns → DataFrame
 
 ```mermaid
 flowchart LR
-    A[".loc\nlabel-based"] --> B["df.loc[row_label, col_label]\ndf.loc[0:5, 'name':'salary']"]
-    C[".iloc\nposition-based"] --> D["df.iloc[row_int, col_int]\ndf.iloc[0:5, 0:3]"]
+    A[".loc<br />label-based"] --> B["df.loc[row_label, col_label]<br />df.loc[0:5, 'name':'salary']"]
+    C[".iloc<br />position-based"] --> D["df.iloc[row_int, col_int]<br />df.iloc[0:5, 0:3]"]
 ```
 
 ```python

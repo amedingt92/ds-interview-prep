@@ -39,10 +39,10 @@ flowchart TD
     B --> C[Cyber partition]
     B --> D[Engineering partition]
     B --> E[Other partitions...]
-    C --> F[ORDER BY salary DESC\nwithin partition]
+    C --> F[ORDER BY salary DESC<br />within partition]
     D --> F
     E --> F
-    F --> G[Apply function to each partition\nROW_NUMBER / RANK / SUM / LAG...]
+    F --> G[Apply function to each partition<br />ROW_NUMBER / RANK / SUM / LAG...]
     G --> H[Return ALL rows with new column]
 ```
 
